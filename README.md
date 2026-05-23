@@ -1,16 +1,15 @@
-## Hi there 👋
+## Jinu Park, Backend Engineer
 
-<!--
-**sinequanonn/sinequanonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
-Here are some ideas to get you started:
+- email : dleck288@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- FocusTrain [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sinequanonn/FocusTrain) [![Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://focus-train.com) (2026.04 ~ )
+
+
+ ### Experiences
+ - woowahan techcourse 8th (2026.02 ~ )
