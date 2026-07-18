@@ -9,7 +9,7 @@
 
 ### Projects
 - FocusTrain [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sinequanonn/FocusTrain) [![Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://focus-train.com) (2026.04 ~ )
-- 어서줍줍(UhsuhJupJup) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/sinequanonn/FocusTrain](https://github.com/sinequanonn/Uhsuh-JupJup)) [![Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://uhsuh.com) (2026.06 ~ )
+- 어서줍줍(UhsuhJupJup) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sinequanonn/Uhsuh-JupJup) [![Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://uhsuh.com) (2026.06 ~ )
 
 
  ### Experiences
