@@ -9,7 +9,7 @@
 
 ### Projects
 - 어서줍줍(UhsuhJupJup) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sinequanonn/Uhsuh-JupJup) [![Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://uhsuh.com) (2026.05 ~ )
-- 피유(pheeeew) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/woowacourse-teams/2026-pheeeew) (2026.08 ~ )
+- 히유(pheeeew) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/woowacourse-teams/2026-pheeeew) (2026.08 ~ )
 
  ### Experiences
  - woowahan techcourse 8th (2026.02 ~ )
